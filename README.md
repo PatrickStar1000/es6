@@ -1,1 +1,1 @@
-# es6 note
+# es6 not e  
