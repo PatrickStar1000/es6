@@ -9,6 +9,7 @@
 ```
 上面代码会被编译为
 ```js
+
 var a 
 console.log(a); //undefined
 if(false) {
